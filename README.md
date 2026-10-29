@@ -2,7 +2,7 @@
 
 **AI Engineer | Machine Learning | Data Engineering**
 
-I build machine learning models and the data pipelines that feed them. I have about one year of hands-on experience in computer vision, ML classification and cloud data engineering on AWS. I'm currently pursuing an MBA in Financial Management & Risk Analytics, with a focus on AI in financial technology.
+I build machine learning models and the data pipelines that feed them. I have about one year of hands-on experience in computer vision, ML classification and cloud data engineering on AWS. I'm currently pursuing an MBA with coursework in finance and data analytics, with a focus on applying AI in financial technology.
 
 ## What I've worked on
 
