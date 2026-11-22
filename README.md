@@ -20,6 +20,10 @@ My work is grouped into three repositories, each with one folder per project.
 
 ### 🎓 [Academic Projects](https://github.com/srichandra-bhattiprolu/academic-projects)
 
+Projects from my Diploma in Data Science (IIT Madras) and MBA (VIT): business data analysis, machine learning and insurance analytics.
+
+**Skills:** Python · scikit-learn · Excel · Regression & ANOVA · Time-series forecasting (SARIMA) · Kaggle
+
 | Project | What it does | Tech |
 | --- | --- | --- |
 | [Order Book & Sales Analysis](https://github.com/srichandra-bhattiprolu/academic-projects/tree/main/01-order-book-sales-analysis) | Real client project for a premium paint services business: price optimisation, SARIMA revenue forecast, customer segmentation and delayed-payment analysis | Excel, Regression, ANOVA, SARIMA |
@@ -28,13 +32,21 @@ My work is grouped into three repositories, each with one folder per project.
 
 ### 🛠️ [Data Engineering Projects](https://github.com/srichandra-bhattiprolu/data-engineering-projects)
 
+Data engineering projects with Python, REST APIs, automation and data pipelines.
+
+**Skills:** Python · REST APIs · Automation · CLI tools · Logging
+
 | Project | What it does | Tech |
 | --- | --- | --- |
 | [Binance Futures Trading Bot](https://github.com/srichandra-bhattiprolu/data-engineering-projects/tree/main/01-binance-futures-trading-bot) | Python CLI that places market and limit orders through the Binance Futures Testnet API, with input validation and logging | Python, REST API, python-binance |
 
 ### 📊 [Data Analyst Projects](https://github.com/srichandra-bhattiprolu/data-analyst-projects)
 
-Power BI and Tableau dashboards on e-commerce, marketing performance and healthcare data. *(In progress)*
+Data analysis and visualization projects: cleaning data, finding insights and building interactive dashboards in Power BI and Tableau.
+
+**Skills:** Power BI (DAX) · Tableau · SQL · Python (pandas) · Excel · Data cleaning · EDA · Dashboards & KPIs · Data storytelling
+
+*Projects in progress: e-commerce, marketing performance and healthcare/fitness dashboards.*
 
 ## Skills
 
