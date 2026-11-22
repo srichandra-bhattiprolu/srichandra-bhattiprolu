@@ -18,7 +18,7 @@ I build data pipelines that move data reliably, then turn that data into insight
 
 | Project | What it does | Tech |
 | --- | --- | --- |
-| [Order Book & Cash Flow Analysis (éCOATS)](https://github.com/srichandra-bhattiprolu/BDMPROJECT) | Business data project for a premium lime-plaster paint company: revenue trends, customer segments, pricing analysis and cash flow forecasts | Excel, ANOVA, Forecasting, Dashboards |
+| [Order Book & Cash Flow Analysis](https://github.com/srichandra-bhattiprolu/BDMPROJECT) | Real client project for a premium paint services business: price optimisation, SARIMA revenue forecast, customer segmentation and delayed-payment analysis | Excel, Regression, ANOVA, SARIMA |
 | [CrimeCast: Crime Category Prediction](https://github.com/srichandra-bhattiprolu/Machine-Learning-Projects) | End-to-end ML project covering EDA, cleaning, feature engineering, and comparing 6 models (best: Gradient Boosting, ~92.5% validation accuracy) | Python, Pandas, scikit-learn |
 | [Binance Futures Trading Bot](https://github.com/srichandra-bhattiprolu/binance-futures-trading-bot-) | Python CLI that places market and limit orders through the Binance Futures Testnet API, with input validation and logging | Python, REST API, python-binance |
 
