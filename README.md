@@ -14,13 +14,27 @@ I build data pipelines that move data reliably, then turn that data into insight
 - **API Tooling (Razor Group):** Built an Amazon A/B testing tool on the SP-API that schedules title and bullet-point experiments and exports the results for business teams.
 - **Computer Vision (HC Robotics):** Cleaned LiDAR point-cloud data and trained YOLOv8 / YOLOv11 models to 89% detection accuracy on utility poles, transformers and wires.
 
-## Featured projects
+## Projects
+
+My work is grouped into three repositories, each with one folder per project.
+
+### 🎓 [Academic Projects](https://github.com/srichandra-bhattiprolu/academic-projects)
 
 | Project | What it does | Tech |
 | --- | --- | --- |
-| [Order Book & Cash Flow Analysis](https://github.com/srichandra-bhattiprolu/BDMPROJECT) | Real client project for a premium paint services business: price optimisation, SARIMA revenue forecast, customer segmentation and delayed-payment analysis | Excel, Regression, ANOVA, SARIMA |
-| [CrimeCast: Crime Category Prediction](https://github.com/srichandra-bhattiprolu/Machine-Learning-Projects) | End-to-end ML project covering EDA, cleaning, feature engineering, and comparing 6 models (best: Gradient Boosting, ~92.5% validation accuracy) | Python, Pandas, scikit-learn |
-| [Binance Futures Trading Bot](https://github.com/srichandra-bhattiprolu/binance-futures-trading-bot-) | Python CLI that places market and limit orders through the Binance Futures Testnet API, with input validation and logging | Python, REST API, python-binance |
+| [Order Book & Sales Analysis](https://github.com/srichandra-bhattiprolu/academic-projects/tree/main/01-order-book-sales-analysis) | Real client project for a premium paint services business: price optimisation, SARIMA revenue forecast, customer segmentation and delayed-payment analysis | Excel, Regression, ANOVA, SARIMA |
+| [CrimeCast: Crime Category Prediction](https://github.com/srichandra-bhattiprolu/academic-projects/tree/main/02-crime-category-prediction) | End-to-end ML project covering EDA, cleaning, feature engineering, and comparing 6 models (best: Gradient Boosting, ~92.5% validation accuracy) | Python, Pandas, scikit-learn |
+| [Insurer Financial Health Analysis](https://github.com/srichandra-bhattiprolu/academic-projects/tree/main/03-insurer-financial-health-analysis) | MBA project: CARAMEL analysis of Indian non-life insurers *(coming soon)* | — |
+
+### 🛠️ [Data Engineering Projects](https://github.com/srichandra-bhattiprolu/data-engineering-projects)
+
+| Project | What it does | Tech |
+| --- | --- | --- |
+| [Binance Futures Trading Bot](https://github.com/srichandra-bhattiprolu/data-engineering-projects/tree/main/01-binance-futures-trading-bot) | Python CLI that places market and limit orders through the Binance Futures Testnet API, with input validation and logging | Python, REST API, python-binance |
+
+### 📊 [Data Analyst Projects](https://github.com/srichandra-bhattiprolu/data-analyst-projects)
+
+Power BI and Tableau dashboards on e-commerce, marketing performance and healthcare data. *(In progress)*
 
 ## Skills
 
